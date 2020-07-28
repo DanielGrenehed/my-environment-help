@@ -5,6 +5,7 @@ I use these packages in atom:
 atom-beautify
 file-icons
 pigments
+save-workspace
 
 ### atom-beautify
 A tool to format code. Shortcut ctrl-alt-b
@@ -14,6 +15,23 @@ A package to show icons in project explorer. To make a visual distinction betwee
 
 ### pigments
 A package to show colors in editor. To faster visualize colors.
+
+### save-workspace
+To enable faster project workspace startup time.
+
+Save workspace with:
+
+    ctrl-alt-s
+
+Open workspace with:
+
+    ctrl-alt-o
+
+Remove workspace with:
+
+    ctrl-alt-r
+
+Note that there may be issues saving new workspaces when multiple atom windows are present. Try creating the new workspace in the main Atom editor window.
 
 ## Themes
 I use these themes in atom:
