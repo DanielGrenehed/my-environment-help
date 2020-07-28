@@ -7,7 +7,7 @@ file-icons
 pigments
 
 ### atom-beautify
-A tool to format code. Shortcut ctrl + alt + b
+A tool to format code. Shortcut ctrl-alt-b
 
 ### file-icons
 A package to show icons in project explorer. To make a visual distinction between files.
@@ -19,3 +19,9 @@ A package to show colors in editor. To faster visualize colors.
 I use these themes in atom:
 arc-ui
 running 'Arc' UI Theme and 'One Dark' as Syntax Theme.
+
+## Reminders
+Tools to use.
+
+### Command palette
+Get a editor function query. Shortcut cmd-shift-p
