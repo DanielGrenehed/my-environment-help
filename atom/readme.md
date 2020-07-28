@@ -39,7 +39,16 @@ arc-ui
 running 'Arc' UI Theme and 'One Dark' as Syntax Theme.
 
 ## Reminders
-Tools to use.
+Native atom stuff to use.
 
 ### Command palette
 Get a editor function query. Shortcut cmd-shift-p
+
+### Config files
+Checking you configuration files can be useful sometimes. They are usually located in:
+
+    ~/.atom
+
+### Mod documentation
+(Flight Manual)[https://flight-manual.atom.io/]
+(Atom plugin tutorial)[https://github.blog/2016-08-19-building-your-first-atom-plugin/]
