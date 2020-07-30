@@ -2,10 +2,14 @@
 
 ## Plugins
 I use these packages in atom:
-atom-beautify
-file-icons
-pigments
-save-workspace
+
+    atom-beautify
+
+    file-icons
+
+    pigments
+
+    save-workspace
 
 ### atom-beautify
 A tool to format code. Shortcut ctrl-alt-b
@@ -36,7 +40,7 @@ Note that there may be issues saving new workspaces when multiple atom windows a
 ## Themes
 I use these themes in atom:
 
-arc-ui
+    arc-ui
 
 running 'Arc' UI Theme and 'One Dark' as Syntax Theme.
 
