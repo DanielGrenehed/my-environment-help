@@ -35,7 +35,9 @@ Note that there may be issues saving new workspaces when multiple atom windows a
 
 ## Themes
 I use these themes in atom:
+
 arc-ui
+
 running 'Arc' UI Theme and 'One Dark' as Syntax Theme.
 
 ## Reminders
@@ -51,4 +53,5 @@ Checking you configuration files can be useful sometimes. They are usually locat
 
 ### Mod documentation
 [Flight Manual](https://flight-manual.atom.io/)
+
 [Atom plugin tutorial](https://github.blog/2016-08-19-building-your-first-atom-plugin/)
