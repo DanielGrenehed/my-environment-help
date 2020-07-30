@@ -50,5 +50,5 @@ Checking you configuration files can be useful sometimes. They are usually locat
     ~/.atom
 
 ### Mod documentation
-(Flight Manual)[https://flight-manual.atom.io/]
-(Atom plugin tutorial)[https://github.blog/2016-08-19-building-your-first-atom-plugin/]
+[Flight Manual](https://flight-manual.atom.io/)
+[Atom plugin tutorial](https://github.blog/2016-08-19-building-your-first-atom-plugin/)
